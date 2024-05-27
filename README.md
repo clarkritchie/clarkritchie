@@ -59,12 +59,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
 I need to scrub these projects for senstive data before I can link them.
 
 - `app-api-uploads `-- File uploads
-- `app-frontends` -- Hosting for Reeact apps on S3 with CloudFront, etc.
+- `app-frontends` -- Hosting for React apps on S3 with CloudFront, etc.
 - `aws-alarm-infrastructure` -- CloudWatch alarms and monitoring
 - `aws-docker-swarm` -- VPC, subnets, EC2s, user data, etc.
 - `aws-elasticache-redis` -- Redis
-- `aws-guardduty` -- sets up Guard Duty in 4 regions
-- `aws-iam-accounts` -- used to manage IAM jusers
+- `aws-guardduty` -- Sets up Guard Duty in 4 regions
+- `aws-iam-accounts` -- Used to manage IAM jusers
 - `aws-postgres-rds` -- RDS Serverless v2
 - `backend-remote-state`-- Terraform for the Terraform
-- `github-manager` -- How I managed GitHub
+- `github-manager` -- How I managed GitHub... this one needs a lot of refactoring
