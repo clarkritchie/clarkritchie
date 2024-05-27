@@ -28,7 +28,8 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc)
 - [Python + Go Things](https://github.com/clarkritchie/python-go-things)
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things)
-
+- Quick and dirty [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run both a small Fast API server that talks to a Maria DB database
+- 
 ### 🗒️ Gists and Notes
 
 - Shell script to [delete old branches](https://gist.github.com/clarkritchie/6be7d3d8fec96901002b01df2eaafb6e)
