@@ -10,6 +10,7 @@
 
 ## Career TL;DR
 
+- BS in Computer Science 1996
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
 - MS in Computer Science 2001
 - 12 years writing software for fixed wireless networks in US low-income and throughout East Africa, Haiti, The Philippines
