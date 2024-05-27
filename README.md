@@ -39,6 +39,7 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 - [Other random notes and code snippets](https://gist.github.com/clarkritchie)
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
+- A few things that I made to make copying a Postgres db from [Heroku to RDS](https://github.com/clarkritchie/heroku-to-rds) a little easier
 
 ### 🤖 GitHub Action Related
 
