@@ -5,6 +5,7 @@
 Random things.
 
 ### Go Things
+- [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
 - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc)
 
 ### Kubernetes Things
