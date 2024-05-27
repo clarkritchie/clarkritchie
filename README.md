@@ -1,5 +1,7 @@
 # Clark Ritchie
 
+- [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
+
 Random things.
 
 ### Go Things
