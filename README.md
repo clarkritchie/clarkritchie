@@ -2,14 +2,14 @@
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-## Me TL;DR
+## TL;DR
 
 - Core skills:  Linux, Terraform, Docker and containers, Go (Golang), Python, CI/CD, AWS
 - Developer but always remained close to infrastructure
 - Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
 - Passionate about building and running world-class systems
 
-## My career TL;DR
+## Professional/Career TL;DR
 
 - BS in Computer Science 1996
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
@@ -50,5 +50,5 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 ### :lock: 1Password Related
 
 - Sort a [1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
-- I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization).  This code was originally forked from someone else's project but again,heavily modified heavily for my needs
+- I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization) -- code was originally forked from someone else's project then heavily modified for my needs
 - Do the above [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way 
