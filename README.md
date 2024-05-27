@@ -2,14 +2,14 @@
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-## TL;DR
+## 💬 TL;DR
 
 - Core skills:  Linux, Terraform, Docker and containers, Go (Golang), Python, CI/CD, AWS
 - Developer but always remained close to infrastructure
 - Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
 - Passionate about building and running world-class systems
 
-## Career TL;DR
+## 📌 Career TL;DR
 
 - BS in Computer Science 1996
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
@@ -20,7 +20,7 @@ A platform engineer with a diverse background of experiences.  Hands-on building
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie)!
 
 ## 👽 Random Things on my GitHub
 
