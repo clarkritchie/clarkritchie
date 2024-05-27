@@ -52,4 +52,19 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
 
 - Sort a [1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
 - I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization) -- code was originally forked from someone else's project then heavily modified for my needs
-- Do the above [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way 
+- Do the above [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way
+
+### Terraform Related
+
+I need to scrub these projects for senstive data before I can link them.
+
+- `app-api-uploads `-- File uploads
+- `app-frontends` -- Hosting for Reeact apps on S3 with CloudFront, etc.
+- `aws-alarm-infrastructure` -- CloudWatch alarms and monitoring
+- `aws-docker-swarm` -- VPC, subnets, EC2s, user data, etc.
+- `aws-elasticache-redis` -- Redis
+- `aws-guardduty` -- sets up Guard Duty in 4 regions
+- `aws-iam-accounts` -- used to manage IAM jusers
+- `aws-postgres-rds` -- RDS Serverless v2
+- `backend-remote-state`-- Terraform for the Terraform
+- `github-manager` -- How I managed GitHub
