@@ -2,6 +2,8 @@
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
+
 ## 💬 TL;DR
 
 - Core skills:  Linux, Terraform, Docker and containers, Go (Golang), Python, CI/CD, AWS
@@ -19,8 +21,6 @@ A platform engineer with a diverse background of experiences.  Hands-on building
 - 5 Years as Platform Engineer at Specialized Bicycle Components (’18-’23)
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie)!
 
 ## 👽 Random Things on my GitHub
 
