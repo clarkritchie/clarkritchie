@@ -12,4 +12,5 @@ Random things.
 - [Python Go Things](https://github.com/clarkritchie/python-go-things)
 
 ### Gists
-- [Random notes and code snippets](https://gist.github.com/clarkritchie)
+- [Sort a 1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
+- [Other random notes and code snippets](https://gist.github.com/clarkritchie)
