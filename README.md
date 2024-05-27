@@ -18,7 +18,7 @@
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-:page_facing_up: [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
+:memo: [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 
 Random Things on my GitHub
 
