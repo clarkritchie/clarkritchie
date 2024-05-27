@@ -20,20 +20,15 @@
 
 :memo: [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 
-Random Things on my GitHub
+## Random Things on my GitHub
 
-### Go Things
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc)
 - [Python + Go Things](https://github.com/clarkritchie/python-go-things)
-
-### Kubernetes Things
-
-I've used AWS Elastic Container Service and Docker Swarm, and now I am learning K8s.
-
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things)
 
-### Gists
+### Gists and Notes
+
 - [Trick GHA into revealing a secret](https://gist.github.com/clarkritchie/def05211e6dd0ec6a8e1edd48f0f822b)
 - [Sort a 1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
 - [Use Python in a GHA step](https://gist.github.com/clarkritchie/a347d3fe9c72f47d9ece95f4dda38536)
