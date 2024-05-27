@@ -3,8 +3,8 @@
 ## TL;DR
 
 - Core skills:  Linux, Terraform, Golang, Python, CI/CD, AWS
-- Have always remained close to infrastructure
-- Possess an SRE mindset — scalability, fault-tolerance, consolidating resources, monitoring and alerting
+- Developer but always remained close to infrastructure
+- Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
 - Passionate about building and running world-class systems
 
 
