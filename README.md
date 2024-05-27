@@ -54,9 +54,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
 - I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization) -- code was originally forked from someone else's project then heavily modified for my needs
 - Do the above [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way
 
-### Terraform Related
+### ⚙️ Terraform Related
 
-I need to scrub these projects for senstive data before I can link them.
+_TODO:  Revisit and revise these projects before linking to them._
 
 - `app-api-uploads `-- File uploads
 - `app-frontends` -- Hosting for React apps on S3 with CloudFront, etc.
