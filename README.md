@@ -1,15 +1,15 @@
 # Clark Ritchie
 
-I am a platform engineer with a diverse background of experiences.  I am hands-on building and operating scalable SaaS cloud-native systems, and have done this consistentlyfor over 15 years as both an IC and leader.
+A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-## TL;DR
+## Me TL;DR
 
-- Core skills:  Linux, Terraform, Golang, Python, CI/CD, AWS
+- Core skills:  Linux, Terraform, Docker and containers, Go (Golang), Python, CI/CD, AWS
 - Developer but always remained close to infrastructure
 - Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
 - Passionate about building and running world-class systems
 
-## Career TL;DR
+## My career TL;DR
 
 - BS in Computer Science 1996
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
@@ -25,7 +25,7 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 ## 👽 Random Things on my GitHub
 
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
-  - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc)
+  - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- server in Go, clients in Go and Python
 - [Python + Go Things](https://github.com/clarkritchie/python-go-things)
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things)
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
