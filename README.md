@@ -20,16 +20,16 @@ I am a platform engineer with a  diverse background of experiences.  I am hand
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie) 👨‍💻
+View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 
-## Random Things on my GitHub  👽
+## 👽 Random Things on my GitHub
 
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc)
 - [Python + Go Things](https://github.com/clarkritchie/python-go-things)
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things)
 
-### Gists and Notes  🗒️
+### 🗒️ Gists and Notes
 
 - Shell script to [delete old branches](https://gist.github.com/clarkritchie/6be7d3d8fec96901002b01df2eaafb6e)
 - [Use Python in a GHA step](https://gist.github.com/clarkritchie/a347d3fe9c72f47d9ece95f4dda38536)
@@ -39,14 +39,14 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie) 👨‍💻
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
 
-### GHA Related 🤖
+### 🤖 GHA Related
 
 - HOWTO trick GHA into [revealing a secret](https://gist.github.com/clarkritchie/def05211e6dd0ec6a8e1edd48f0f822b)
 - Example of how you might [lint in a GHA](https://gist.github.com/clarkritchie/2f935597b9398a34380e8c9a90005b6f) -- this example is for Terraform, but could be used to lint Python code with Ruff, etc.
 - Full example of the [context object](https://gist.github.com/clarkritchie/b84937c0c83bcf1de9f25ca63bcaf77a)
 - If you must do a [nested ternary](https://gist.github.com/clarkritchie/d3c35a9feeec5ed62ddbb38172ee62c2)
 
-### 1Password Related :lock:
+### :lock: 1Password Related
 
 - [Sort a 1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
 - I made this script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets.  This was forked from someone else's Python project and then modified heavily for my needs.
