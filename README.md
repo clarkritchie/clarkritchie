@@ -1,6 +1,6 @@
 # Clark Ritchie
 
-I am a platform engineer with a  diverse background of experiences.  I am hands-on building and  operating scalable SaaS cloud-native systems, and have done this consistently for over 15 years as both an IC and leader.
+I am a platform engineer with a diverse background of experiences.  I am hands-on building and operating scalable SaaS cloud-native systems, and have done this consistentlyfor over 15 years as both an IC and leader.
 
 ## TL;DR
 
@@ -30,7 +30,7 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things)
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
 
-### 🗒️ Gists and Notes
+### 🗒️ Gists -- Code Snippets, Scripts, Other Notes
 
 - Shell script to [delete old branches](https://gist.github.com/clarkritchie/6be7d3d8fec96901002b01df2eaafb6e)
 - [Use Python in a GHA step](https://gist.github.com/clarkritchie/a347d3fe9c72f47d9ece95f4dda38536)
@@ -40,15 +40,15 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
 
-### 🤖 GHA Related
+### 🤖 GitHub Action Related
 
-- HOWTO trick GHA into [revealing a secret](https://gist.github.com/clarkritchie/def05211e6dd0ec6a8e1edd48f0f822b)
+- Trick GHA into [revealing a secret](https://gist.github.com/clarkritchie/def05211e6dd0ec6a8e1edd48f0f822b)
 - Example of how you might [lint in a GHA](https://gist.github.com/clarkritchie/2f935597b9398a34380e8c9a90005b6f) -- this example is for Terraform, but could be used to lint Python code with Ruff, etc.
 - Full example of the [context object](https://gist.github.com/clarkritchie/b84937c0c83bcf1de9f25ca63bcaf77a)
 - If you must do a [nested ternary](https://gist.github.com/clarkritchie/d3c35a9feeec5ed62ddbb38172ee62c2)
 
 ### :lock: 1Password Related
 
-- [Sort a 1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
-- I made this script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets.  This was forked from someone else's Python project and then modified heavily for my needs.
-- [Do the above but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way 
+- Sort a [1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
+- I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization).  This code was originally forked from someone else's project but again,heavily modified heavily for my needs
+- Do the above [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way 
