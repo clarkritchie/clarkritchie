@@ -1,4 +1,4 @@
-# Clark Ritchie
+# ❇️ Clark Ritchie
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
@@ -9,7 +9,7 @@ A platform engineer with a diverse background of experiences.  Hands-on building
 - Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
 - Passionate about building and running world-class systems
 
-## Professional/Career TL;DR
+## Career TL;DR
 
 - BS in Computer Science 1996
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
