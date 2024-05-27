@@ -1,6 +1,6 @@
 # Clark Ritchie
 
-[LinkedIn Profile](https://www.linkedin.com/in/clarkritchie).
+:page_facing_up: [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 
 Random things.
 
