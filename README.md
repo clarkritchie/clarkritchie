@@ -27,7 +27,7 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/clarkritchie)
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- server in Go, clients in Go and Python
 - [Python + Go Things](https://github.com/clarkritchie/python-go-things)
-- [Kubernetes Things](https://github.com/clarkritchie/k8s-things)
+- [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Yes, I'm finally learning K8s after years with AWS Elastic Container Service and Docker Swarm...
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
 
 ### 🗒️ Gists -- Code Snippets, Scripts, Other Notes
