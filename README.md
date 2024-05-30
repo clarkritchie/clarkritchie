@@ -24,6 +24,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
 
 ## 👽 Random Things on my GitHub
 
+This is all **very** elementary stuff, sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.
+
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- Hello World server in Go, clients in Go and Python
 - [Python + Go Things](https://github.com/clarkritchie/python-go-things)
