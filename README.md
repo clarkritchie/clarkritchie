@@ -6,8 +6,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
 
 ## 💬 TL;DR
 
-- Core skills:  Linux, Terraform, Docker and containers, Go (Golang), Python, CI/CD, AWS
-- Developer but always remained close to infrastructure
+- Core skills:  Linux, Terraform, Docker and containers (Swarm/ECS/K8s), Go (Golang), Python, CI/CD, cloud (AWS/GCP)
+- Developer, but also close to infrastructure
 - Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
 - Passionate about building and running world-class systems
 
