@@ -48,7 +48,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie).
 - Full example of the [context object](https://gist.github.com/clarkritchie/b84937c0c83bcf1de9f25ca63bcaf77a)
 - If you must do a [nested ternary](https://gist.github.com/clarkritchie/d3c35a9feeec5ed62ddbb38172ee62c2)
 
-### :lock: 1Password Related
+### 🔒️ 1Password Related
 
 - Sort a [1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a)
 - I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how we used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization) -- code was originally forked from someone else's project then heavily modified for my needs
