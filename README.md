@@ -22,7 +22,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitH
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-## Kubernetes and GCP
+## 💪🏼 Kubernetes and GCP
 
 I have been using containers in production for approximately 7 years.  Most of my experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
