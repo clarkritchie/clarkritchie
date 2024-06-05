@@ -2,7 +2,7 @@
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitHub](https://www.github.com/clarkritchie).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitHub](https://www.github.com/clarkritchie).  I am `#opentowork` -- I am ready to get back to making applications that delight users.
 
 ## 💬 TL;DR
 
@@ -24,7 +24,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitH
 
 ## 💪🏼 A Quick Note on Kubernetes and GCP
 
-I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision.  Kubernetes was too much tool for that team and their needs.
+I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision.  At the time, Kubernetes was too much tool for that team and overkill for the businesses needs.
 
 I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
