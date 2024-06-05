@@ -13,14 +13,24 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitH
 
 ## 📌 Career TL;DR
 
-- BS in Computer Science 1996
+- BS in Computer Science, Univ. of Puget Sound ('96)
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
-- MS in Computer Science 2001
+- MS in Computer Science, Oregon State Univ. ('01)
 - 12 years writing software for fixed wireless networks in US low-income and throughout East Africa, Haiti, The Philippines
 - Co-founder of an [ISP in Kenya](https://pitchbook.com/profiles/company/113840-47) (’13-’18)
 - 5 Years as Platform Engineer at Specialized Bicycle Components (’18-’23)
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
+
+## Kubernetes and GCP
+
+I have been using containers in production for approximately 7 years.  Most of my experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in a100% Terraformed AWS environment.
+
+I have used K8s on small test projects.  There are far more similarities between K8s and ECS/Swarm than not.  Task defitinitons are basically Services + Deployments, the concept of Volumes is universal, Ingress, routes, virtual networks, and so on.
+
+I have over 14 years of exprieence on AWS and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an Enterprise setting.
+
+For both K8s and GCP, the vast majority of the concepts are identical!  There can be a hundred ways to solve the same problem using these tools.  I believe that if you can drive a Lexus, you can also drive a Toyota.
 
 ## 👽 Random Things on my GitHub
 
