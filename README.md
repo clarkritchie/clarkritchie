@@ -56,7 +56,7 @@ This is all **very** elementary stuff, sometimes I use these just to prove out a
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
 - A few things that I made to make copying a Postgres db from [Heroku to RDS](https://github.com/clarkritchie/heroku-to-rds) a little easier
-- Struct to JSON -- I was recently asked how to produce [camelCased JSON from a Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c).  (I've always referred to these as "JSON Hints", maybe that's incorrect?  I think they were looking for `json.Marshal` is what they were looking for.)
+- Struct to JSON -- I was recently asked in an interview how to produce [camelCased JSON from a Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c).  I've always referred to this as "JSON Hints", but maybe that's incorrect?  (I think that `json.Marshal` was all they were looking for.)
 
 ### 🤖 GitHub Action Related
 
