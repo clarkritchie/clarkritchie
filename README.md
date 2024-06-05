@@ -24,7 +24,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitH
 
 ## 💪🏼 A Quick Note on Kubernetes and GCP
 
-I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  I felt that Kubernetes was too much tool for that team and their needs.
+I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision.  Kubernetes was too much tool for that team and their needs.
 
 I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
@@ -56,6 +56,7 @@ This is all **very** elementary stuff, sometimes I use these just to prove out a
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
 - A few things that I made to make copying a Postgres db from [Heroku to RDS](https://github.com/clarkritchie/heroku-to-rds) a little easier
+- Struct to JSON -- I was recently asked how to produce [camelCased JSON from a Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c).  (I've always referred to these as "JSON Hints", maybe that's incorrect?  I think they were looking for `json.Marshal` is what they were looking for.)
 
 ### 🤖 GitHub Action Related
 
