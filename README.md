@@ -22,15 +22,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitH
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-## 💪🏼 Kubernetes and GCP
+## 💪🏼 A Quick Note on Kubernetes and GCP
 
-I have been using containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
+I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
-I have used K8s on side/personal projects, some of which is published here.  There are far more similarities between K8s and ECS/Swarm than not.  Task defitinitons are basically Services + Deployments, the concept of Volumes is universal, as are concepts like Ingress, routes, virtual networks, and so on.
+I have used K8s on side/personal projects, some of which is published here.  There are far more similarities between K8s and ECS/Swarm than not.  Task defitinitons are basically Services + Deployments, as are concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on.  K8s is more sophisticated than ECS, true, but at the end of the day the two stacks are _very_ similar.
 
 I have over 14 years of experience on AWS and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an Enterprise setting.
 
-At the end of the day, for both K8s and GCP, the vast majority of the concepts are the same. There can be a hundred ways to solve the same problem using these tools, and how you do it is often bespoke to the organization and their established patterns.
+At the end of the day, for both K8s and GCP, the vast majority of the concepts are the same. There can be a hundred ways to solve the same problem using these tools.  Often times, how you do it is totally bespoke to the organization and their established patterns.
 
 If you can drive a Lexus, you can also drive a Toyota.
 
