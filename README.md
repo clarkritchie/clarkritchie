@@ -5,7 +5,7 @@ A platform engineer with a diverse background of experiences.  Hands-on building
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/clarkritchie)
 - [GitHub](https://www.github.com/clarkritchie)
-- My [Calendly link](https://calendly.com/clarkritchie)
+- [Calendly](https://calendly.com/clarkritchie)
 
 I am passionate about building and operating world-class applications that delight its end users.
 
