@@ -2,7 +2,10 @@
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitHub](https://www.github.com/clarkritchie), or get onto my calendar [here]](https://calendly.com/clarkritchie).
+Connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/clarkritchie)
+- [GitHub](https://www.github.com/clarkritchie)
+- My [Calendly link](https://calendly.com/clarkritchie)
 
 I am passionate about building and operating world-class applications that delight its end users.
 
