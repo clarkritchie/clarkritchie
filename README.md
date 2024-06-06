@@ -31,17 +31,17 @@ I am `#opentowork` -- I am hungry to get to back at it.  Let's go!
 
 ## 💪🏼 On My Experience w/ Kubernetes and GCP
 
-I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service (ECS) product, which at the time was selected primarily for ease of use and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision; Kubernetes or Amazon's Elastic Kubernetes Service (EKS) were simply too much tool for that team and overkill for the businesses needs.
+I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service (ECS) product, which at the time was selected primarily for ease of use and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision; Kubernetes (or Amazon's Elastic Kubernetes Service, EKS) was simply too much tool, and it was overkill for the businesses needs.
 
-I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
+In addition to ECS, I have built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
-All this being said, I have only ever used K8s on side/personal projects, some of which are published on GitHub.  There are far more similarities between K8s and ECS/Swarm than there are differences.  Task defitinitons are basically Services + Deployments, and concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on are all common.  K8s is more sophisticated than ECS, but at the end of the day, the two stacks are _very_ similar.  On AWS, there are services, like API Gateway, that can be combined with ECS or lambdas in different ways.
+My K8s experience has been on side/personal projects, some of which are published on my GitHub.  There are far more similarities between K8s and ECS/Swarm than there are differences.  Task defitinitons are basically Services + Deployments, and concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on are all very common.  K8s is more sophisticated than ECS, but at the end of the day, the two stacks are _very_ similar.  On AWS, there are services, like API Gateway and Paramater Store (for secrets, that can be combined with ECS (or lambdas) in many similar and different ways.
 
-I have over 14 years of experience using AWS and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an Enterprise setting.
+I have over 14 years of experience using AWS and other cloud providers (Heroku, Linode, etc.) and extensive experience (7 years) with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an Enterprise setting.
 
-I feel that for both K8s and GCP, the vast majority of the concepts are the same or very similar as other tools I've used, namely ECS and AWS.  There can be a hundred ways to solve the same problem using any tool, and often times, how you do it is totally bespoke to the organization and their established patterns.
+There can be a hundred ways to solve the same problem using any tool, and often times, how you do it is totally bespoke to the organization and their established patterns.
 
-If you can drive a Lexus, you can also drive a Toyota.
+In my mind, if you can drive a Toyota, you can also drive a Lexus.
 
 ## 👽 Random Things on my GitHub
 
