@@ -2,7 +2,11 @@
 
 A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitHub](https://www.github.com/clarkritchie).  I am `#opentowork` -- I am ready to get back to making applications that delight users.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitHub](https://www.github.com/clarkritchie), or get onto my calendar [here]](https://calendly.com/clarkritchie).
+
+I am passionate about building and operating world-class applications that delight its end users.
+
+I am `#opentowork` -- I am hungry to get to back at it.  Let's go!
 
 ## 💬 TL;DR
 
@@ -22,17 +26,17 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/clarkritchie) or [GitH
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-## 💪🏼 A Quick Note on Kubernetes and GCP
+## 💪🏼 On My Experience w/ Kubernetes and GCP
 
-I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service product, which I selected primarily for ease of support and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision.  At the time, Kubernetes was too much tool for that team and overkill for the businesses needs.
+I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service (ECS) product, which at the time was selected primarily for ease of use and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision; Kubernetes or Amazon's Elastic Kubernetes Service (EKS) were simply too much tool for that team and overkill for the businesses needs.
 
 I have also built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
-I have used K8s on side/personal projects, some of which is published here.  There are far more similarities between K8s and ECS/Swarm than there are differences.  Task defitinitons are basically Services + Deployments, and concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on are all common.  K8s is more sophisticated than ECS, true, but at the end of the day the two stacks are _very_ similar.
+All this being said, I have only ever used K8s on side/personal projects, some of which are published on GitHub.  There are far more similarities between K8s and ECS/Swarm than there are differences.  Task defitinitons are basically Services + Deployments, and concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on are all common.  K8s is more sophisticated than ECS, but at the end of the day, the two stacks are _very_ similar.  On AWS, there are services, like API Gateway, that can be combined with ECS or lambdas in different ways.
 
 I have over 14 years of experience using AWS and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an Enterprise setting.
 
-At the end of the day, for both K8s and GCP, the vast majority of the concepts are the same as other tools I've used.  Remember, there can be a hundred ways to solve the same problem using any tool, and often times, how you do it is totally bespoke to the organization and their established patterns.
+I feel that for both K8s and GCP, the vast majority of the concepts are the same or very similar as other tools I've used, namely ECS and AWS.  There can be a hundred ways to solve the same problem using any tool, and often times, how you do it is totally bespoke to the organization and their established patterns.
 
 If you can drive a Lexus, you can also drive a Toyota.
 
