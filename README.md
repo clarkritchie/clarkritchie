@@ -5,7 +5,7 @@ A platform engineer with a diverse background of experiences.  Hands-on building
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/clarkritchie)
 - [GitHub](https://www.github.com/clarkritchie)
-- [Calendly](https://calendly.com/clarkritchie)
+- Use [Calendly](https://calendly.com/clarkritchie) to get on my calendar
 
 I am passionate about building and operating world-class applications that delight its end users.
 
@@ -46,11 +46,12 @@ I have over 14 years of experience using AWS and other cloud providers (Heroku, 
 This is all **very** elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.
 
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
-  - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- Hello World server in Go, clients in Go and Python
+  - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- gRPC example of a "Hello World" server in Go, with clients in Go and Python
 - [Basic Python Things](https://github.com/clarkritchie/basic-python-things)
-  - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The Sieve of Sundaram in Python (native) vs Python but with a Go .so file
+  - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The Sieve of Sundaram in Python (native) vs Python but with a Go code compiled to a `.so` file
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff (I'm finally learning K8s)
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
+- [kickr-rpi-ws281x](https://github.com/clarkritchie/kickr-rpi-ws281x) -- This was a small side project to control a programmable LED light strip using heart rate data from a Wahoo TICKR heart rate monitor -- I never finished this, but the Bluetooth to the TICKR part works, IIRC (this project should probably be named `tickr-rpi-ws281x`)
 
 ### 🗒️ Gists -- Code Snippets, Scripts, Other Notes
 
