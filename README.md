@@ -29,28 +29,27 @@ I am `#opentowork` -- I am hungry to get to back at it.  Let's go!
 - Principal Engineer at Blueboard, a SaaS startup (’23-’24)
 - Experience at 4 startups
 
-## 💪🏼 On My Experience w/ Kubernetes and GCP
+## 📌 Kubernetes
 
-I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service (ECS) product, which at the time was selected primarily for ease of use and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision; Kubernetes (or Amazon's Elastic Kubernetes Service, EKS) was simply too much tool, and it was overkill for the businesses needs.
+I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service (ECS) product, which was selected over K8s primarily for ease of use and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision; Kubernetes (or Amazon's Elastic Kubernetes Service, EKS) was simply too much tool, and it was overkill for the businesses needs.  That implementation was very bespoke with a Terraform workflow around it.
 
 In addition to ECS, I have built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
 
 My K8s experience has been on side/personal projects, some of which are published on my GitHub.  There are far more similarities between K8s and ECS/Swarm than there are differences.  Task defitinitons are basically Services + Deployments, and concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on are all very common.  K8s is more sophisticated than ECS, but at the end of the day, the two stacks are _very_ similar.  On AWS, there are services, like API Gateway and Paramater Store (for secrets, that can be combined with ECS (or lambdas) in many similar and different ways.
 
-I have over 14 years of experience using AWS and other cloud providers (Heroku, Linode, etc.) and extensive experience (7 years) with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an Enterprise setting.
+## ☁️ AWS, GCP & Other Clouds
 
-There can be a hundred ways to solve the same problem using any tool, and often times, how you do it is totally bespoke to the organization and their established patterns.
-
-In my mind, if you can drive a Toyota, you can also drive a Lexus.
+I have over 14 years of experience using AWS and other cloud providers (Heroku, Linode, Rack Space, etc.) and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an enterprise setting.  The vast majority of the concepts are the same or very similar.
 
 ## 👽 Random Things on my GitHub
 
-This is all **very** elementary stuff, sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.
+This is all **very** elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.
 
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- Hello World server in Go, clients in Go and Python
-- [Python + Go Things](https://github.com/clarkritchie/python-go-things)
-- [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff (yes, I'm finally learning K8s after >6 years with AWS Elastic Container Service and Docker Swarm...)
+- [Basic Python Things](https://github.com/clarkritchie/basic-python-things)
+  - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The Sieve of Sundaram in Python (native) vs Python but with a Go .so file
+- [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff (I'm finally learning K8s)
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
 
 ### 🗒️ Gists -- Code Snippets, Scripts, Other Notes
@@ -63,11 +62,11 @@ This is all **very** elementary stuff, sometimes I use these just to prove out a
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
 - A few things that I made to make copying a Postgres db from [Heroku to RDS](https://github.com/clarkritchie/heroku-to-rds) a little easier
-- Struct to JSON -- I was recently asked in an interview how to produce [camelCased JSON from a Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c).  I've always referred to this as "JSON Hints", but maybe that's incorrect?  (I think that `json.Marshal` was all they were looking for.)
+- [camelCased JSON from a Go Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c) -- I was recently asked in an interview how to do this.  I've always referred to this as "JSON Hints", but maybe that's incorrect... I think that `json.Marshal` was all they were looking for.
 
 ### 🤖 GitHub Action Related
 
-- Trick GHA into [revealing a secret](https://gist.github.com/clarkritchie/def05211e6dd0ec6a8e1edd48f0f822b)
+- Trick GHA into [revealing a secret](https://gist.github.com/clarkritchie/def05211e6dd0ec6a8e1edd48f0f822b) -- yes, this is possible!
 - Example of how you might [lint in a GHA](https://gist.github.com/clarkritchie/2f935597b9398a34380e8c9a90005b6f) -- this example is for Terraform, but could be used to lint Python code with Ruff, etc.
 - Full example of the [context object](https://gist.github.com/clarkritchie/b84937c0c83bcf1de9f25ca63bcaf77a)
 - If you must do a [nested ternary](https://gist.github.com/clarkritchie/d3c35a9feeec5ed62ddbb38172ee62c2)
@@ -80,6 +79,8 @@ This is all **very** elementary stuff, sometimes I use these just to prove out a
 
 ### ⚙️ Terraform Related
 
+- [Terraform Things](https://github.com/clarkritchie/terraform-things)
+
 _TODO:  Revisit and revise these projects before linking to them._
 
 - `app-api-uploads `-- File uploads
@@ -90,5 +91,3 @@ _TODO:  Revisit and revise these projects before linking to them._
 - `aws-guardduty` -- Sets up Guard Duty in 4 regions
 - `aws-iam-accounts` -- Used to manage IAM jusers
 - `aws-postgres-rds` -- RDS Serverless v2
-- `backend-remote-state`-- Terraform for the Terraform
-- `github-manager` -- How I managed GitHub... this one needs a lot of refactoring
