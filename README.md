@@ -41,7 +41,7 @@ My K8s experience has been on side/personal projects, some of which are publishe
 
 I have over 14 years of experience using AWS and other cloud providers (Heroku, Linode, Rack Space, etc.) and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an enterprise setting.  The vast majority of the concepts are the same or very similar.
 
-## 👽 Random Things on my GitHub
+## 🗒️ Random Things on my GitHub
 
 This is all **very** elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.
 
@@ -54,9 +54,6 @@ This is all **very** elementary stuff -- sometimes I use these just to prove out
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
 - [tickr-rpi-ws281x](https://github.com/clarkritchie/kickr-rpi-ws281x) -- This was a small side project to control a programmable LED light strip using heart rate data from a Wahoo TICKR heart rate monitor -- I never finished this, but the Bluetooth to the TICKR part works, IIRC
 - [Nexus 7 Deployment Script](https://github.com/clarkritchie/nexus7) -- Something I did eons ago to help deploy a bunch of Google tablets
-
-### 🗒️ Gists -- Code Snippets, Scripts, Other Notes
-
 - Shell script to [delete old branches](https://gist.github.com/clarkritchie/6be7d3d8fec96901002b01df2eaafb6e)
 - Sort a [1Password Note](https://gist.github.com/clarkritchie/1e223f3cd3657cd00722be52f4249c1a) from the command line, uses the 1Password CLI
 - I made this Python script to [read Secure Notes from 1Password and push to GitHub Secrets](https://github.com/clarkritchie/1pw-github-secrets) -- this is very bespoke but is how I once used 1Password Notes as the "source of truth" for env vars which were stored as GitHub secrets (environment, repository or organization) -- this code was originally forked from someone else's project but heavily modified for my needs
@@ -67,7 +64,7 @@ This is all **very** elementary stuff -- sometimes I use these just to prove out
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 - [List, Copy, Delete S3 Bucket](https://gist.github.com/clarkritchie/fdce6b1a365ce176040bc8e7fca3a0c7)
 - A few things that I made to make copying a Postgres db from [Heroku to RDS](https://github.com/clarkritchie/heroku-to-rds) a little easier
-- [camelCased JSON from a Go Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c) -- I was recently asked in an interview how to do this.  I've always referred to this as "JSON Hints", but maybe that's incorrect... I think that `json.Marshal` was all they were looking for...
+- Produce [camelCased JSON from a Go Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c) -- I was recently asked in an interview how to do this, I've always referred to this as "JSON Hints", but maybe that's incorrect... I think that `json.Marshal` was all they were looking for!
 
 ### 🤖 GitHub Action Related
 
