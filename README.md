@@ -51,7 +51,8 @@ This is all **very** elementary stuff -- sometimes I use these just to prove out
   - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The Sieve of Sundaram in Python (native) vs Python but with a Go code compiled to a `.so` file
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff (I'm finally learning K8s)
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
-- [kickr-rpi-ws281x](https://github.com/clarkritchie/kickr-rpi-ws281x) -- This was a small side project to control a programmable LED light strip using heart rate data from a Wahoo TICKR heart rate monitor -- I never finished this, but the Bluetooth to the TICKR part works, IIRC (this project should probably be named `tickr-rpi-ws281x`)
+- [tickr-rpi-ws281x](https://github.com/clarkritchie/kickr-rpi-ws281x) -- This was a small side project to control a programmable LED light strip using heart rate data from a Wahoo TICKR heart rate monitor -- I never finished this, but the Bluetooth to the TICKR part works, IIRC
+- [Nexus 7 Deployment Script](https://github.com/clarkritchie/nexus7) -- Something I did eons ago to help deploy a bunch of Google tablets
 
 ### 🗒️ Gists -- Code Snippets, Scripts, Other Notes
 
