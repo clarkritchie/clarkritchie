@@ -51,7 +51,12 @@ This is all **very** elementary stuff -- sometimes I use these just to prove out
   - [GitHub](https://github.com/clarkritchie/terraform-things/tree/main/github-clarkritchie) for doing things with GitHub repos
   - [s3-static-hosting](https://github.com/clarkritchie/terraform-things/tree/main/s3-static-hosting) simple web hosting on S3
   - [s3-remote-state](https://github.com/clarkritchie/terraform-things/tree/main/s3-remote-state) Terraform to create the Terraform backend state on AWS
-  - [Docker Swarm](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm) Creates a VPC, subnets, EC2s, ELBs, Postgres Serversless, MySQL Serverless, Elasticache-Redis, SNS for alarms...
+  - The Docker Swarm section is  bunch of smaller Terraform projects to create a VPC, subnets, EC2s, ELBs, bootstrap a Docker Swarm clsuter, Postgres and MySQL (Serverless), Elasticache (Redis), SNS for alarms, and more.  Oh my!
+    - [aws-alarm-infrastructure](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-alarm-infrastructure)
+    - [aws-docker-swarm](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-docker-swarm)
+    - [aws-elasticache-redis](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-elasticache-redis)
+    - [aws-postgres-rds](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-mysql-rds)
+    - [aws-postgres-rds](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-postgres-rds)
   - [AWS Guard Duty](https://github.com/clarkritchie/terraform-things/tree/main/aws-guardduty) A truly minimalistic setup of Guard Duty
 - [Basic Python Things](https://github.com/clarkritchie/basic-python-things)
   - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The _Sieve of Sundaram_ in Python (native) versus it in Python, but with the heavy lifting done in Go (code compiled to a `.so` file)
