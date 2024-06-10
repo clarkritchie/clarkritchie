@@ -51,6 +51,7 @@ This is all **very** elementary stuff -- sometimes I use these just to prove out
   - [GitHub](https://github.com/clarkritchie/terraform-things/tree/main/github-clarkritchie) for doing things with GitHub repos
   - [s3-static-hosting](https://github.com/clarkritchie/terraform-things/tree/main/s3-static-hosting) simple web hosting on S3
   - [s3-remote-state](https://github.com/clarkritchie/terraform-things/tree/main/s3-remote-state) Terraform to create the Terraform backend state on AWS
+  - [Docker Swarm](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm) -- VPC, subnets, EC2s, Postgres Serversless, MySQL Serverless, Elasticache-Redis, SNS for alarms
 - [Basic Python Things](https://github.com/clarkritchie/basic-python-things)
   - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The _Sieve of Sundaram_ in Python (native) versus it in Python, but with the heavy lifting done in Go (code compiled to a `.so` file)
 - [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff (I'm finally learning K8s)
