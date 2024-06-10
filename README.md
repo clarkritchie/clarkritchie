@@ -76,3 +76,5 @@ This is all **very** elementary stuff -- sometimes I use these just to prove out
 - Full example of the [context object](https://gist.github.com/clarkritchie/b84937c0c83bcf1de9f25ca63bcaf77a)
 - If you must do a [nested ternary](https://gist.github.com/clarkritchie/d3c35a9feeec5ed62ddbb38172ee62c2) in GHA
 - Read Secure Notes from 1Password and push to GitHub Secrets (see above) [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way
+- I didn't write this, but this is amazing -- a [Search and Replace](https://gist.github.com/clarkritchie/4e1e365085675995d9726d70cd87b9a3) shell hack for use with the Silver Searcher
+
