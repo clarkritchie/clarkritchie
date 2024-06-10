@@ -43,7 +43,7 @@ I have over 14 years of experience using AWS and other cloud providers (Heroku, 
 
 ## 🗒️ Random Things on my GitHub
 
-This is all **very** elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.
+A lot of this is elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.  Some of the Terraform is more sophisticated.
 
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- gRPC example of a "Hello World" server in Go, with clients in Go and Python
