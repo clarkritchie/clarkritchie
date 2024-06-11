@@ -49,11 +49,11 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- gRPC example of a "Hello World" server in Go, with clients in Go and Python
 - Terraform Things
   - [GitHub](https://github.com/clarkritchie/terraform-things/tree/main/github-clarkritchie) for doing things with GitHub repos
-  - [s3-static-hosting](https://github.com/clarkritchie/terraform-things/tree/main/s3-static-hosting) simple web hosting on S3
-  - [s3-remote-state](https://github.com/clarkritchie/terraform-things/tree/main/s3-remote-state) Terraform to create the Terraform backend state on AWS
-  - The [Docker Swarm section](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm) is a bunch of smaller Terraform projects I made once to create a VPC, subnets, EC2s, ELBs, bootstrap a Docker Swarm cluster, stand up Postgres and MySQL (Serverless) and Elasticache (Redis) instances, as well as SNS for alarms, and more.  This was very bespoke and followed some conventions, but IIRC it more or less all worked okay
+  - [s3-static-hosting](https://github.com/clarkritchie/terraform-things/tree/main/s3-static-hosting) Very simple web hosting on S3, no https
+  - [s3-remote-state](https://github.com/clarkritchie/terraform-things/tree/main/s3-remote-state) Terraform to create the Terraform backend state on AWS, so meta
+  - The [Docker Swarm section](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm) is a series of bespoke Terraform projects I made to create a VPC, subnets, EC2s, ELBs, bootstrap a Docker Swarm cluster, stand up Postgres and MySQL (Serverless) and Elasticache (Redis) instances, as well as SNS for alarms, and more
     - [aws-alarm-infrastructure](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-alarm-infrastructure)
-    - [aws-docker-swarm](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-docker-swarm)
+    - [aws-docker-swarm](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-docker-swarm) -- This is the base layer, the others mostly use `outputs` from this
     - [aws-elasticache-redis](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-elasticache-redis)
     - [aws-mysql-rds](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-mysql-rds)
     - [aws-postgres-rds](https://github.com/clarkritchie/terraform-things/tree/main/docker-swarm/aws-postgres-rds)
