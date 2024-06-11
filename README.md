@@ -1,22 +1,23 @@
 # ❇️ Clark Ritchie
 
-A platform engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
+A platform engineer with a diverse background of experiences, hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
-I am passionate about building and operating world-class applications that delight its end users.
+**I am passionate about building and operating world-class applications that delight its end users.**
 
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/clarkritchie)
 - [GitHub](https://www.github.com/clarkritchie)
 - Or use [Calendly](https://calendly.com/clarkritchie) to get onto my calendar
 
-I am `#opentowork` -- I am hungry to get to back at it.  Let's go!
+I am `#opentowork` and hungry to get to back at it.
 
 ## 💬 TL;DR
 
 - Core skills:  Linux, Terraform, Docker and containers (Swarm/ECS/K8s), Go (Golang), Python, CI/CD, cloud (AWS/GCP)
-- Developer, but also close to infrastructure
-- Possess an SRE mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting
-- Passionate about building and running world-class systems
+- I am a developer, but also very close to infrastructure
+- I approach software development with an SRE's mindset -- scalability, fault-tolerance, consolidating resources, monitoring and alerting -- are always part of my thinking
+- Sometimes good is better than perfect; I like to ship early and ship often
+- Let's go!
 
 ## 📌 Career TL;DR
 
