@@ -9,8 +9,6 @@ Connect with me on:
 - [GitHub](https://www.github.com/clarkritchie)
 - Or use [Calendly](https://calendly.com/clarkritchie) to get onto my calendar
 
-I am `#opentowork`, and hungry to get to back at it.
-
 ## 💬 TL;DR
 
 - Core skills:  Linux, Terraform, Docker and containers (Swarm/ECS/K8s), Go (Golang), Python, CI/CD, cloud (AWS/GCP)
