@@ -22,23 +22,12 @@ Connect with me on:
 - BS in Computer Science, Univ. of Puget Sound ('96)
 - Early career — Intel factory automation, Hewlett-Packard, a startup (’96-’11)
 - MS in Computer Science, Oregon State Univ. ('01)
+- Experience at 4 startups
 - 12 years writing software for fixed wireless networks in US low-income and throughout East Africa, Haiti, The Philippines
 - Co-founded an [ISP in Kenya](https://pitchbook.com/profiles/company/113840-47) (’13-’18)
-- 5 Years as Platform Engineer at Specialized Bicycle Components (’18-’23)
-- Principal Engineer at Blueboard, a SaaS startup that failed (’23-’24)
-- Experience at 4 startups
-
-## ⛭ Kubernetes
-
-I have been using Docker containers in production for approximately 7 years.  Most of that experience has been with AWS's Elastic Container Service (ECS) product, which was selected over K8s primarily for ease of use and a faster time to production.  In that organization, with no/limited DevOps resources, it was the right decision; Kubernetes (or Amazon's Elastic Kubernetes Service, EKS) was simply too much tool, and it was overkill for the businesses needs.  That implementation was very bespoke with a Terraform workflow around it.
-
-In addition to ECS, I have built and run my own Docker Swarm clusters, both on bare metal servers and on EC2s in an AWS environment that was 100% Terraformed (by me).
-
-My K8s experience has been on side/personal projects, some of which are published on my GitHub.  There are far more similarities between K8s and ECS/Swarm than there are differences.  Task defitinitons are basically Services + Deployments, and concepts like volumes, ingress, routes, virtual networks, load balancers, port mappings, resource allocations, replicas, failovers, and so on are all very common.  K8s is more sophisticated than ECS, but at the end of the day, the two stacks are _very_ similar.  On AWS, there are services, like API Gateway and Paramater Store (for secrets, that can be combined with ECS (or lambdas) in many similar and different ways.
-
-## ☁️ AWS, GCP & Other Clouds
-
-I have over 14 years of experience using AWS and other cloud providers (Heroku, Linode, Rack Space, etc.) and extensive experience with IaC using Terraform.  And while I have only ever used GCP for side/personal projects, I am 1,001% confident in my ability to rapidly take up GCP in an enterprise setting.  The vast majority of the concepts are the same or very similar.
+- 5 Years as Platform Engineer at [Specialized Bicycle Components](https://www.specialized.com/us/en) (’18-’23)
+- Principal Engineer at Blueboard, a failed HR SaaS startup (’23-’24)
+- My current role is as a Senior Staff SRE Software Engineer at [Dexcom](https://www.dexcom.com)
 
 ## 🗒️ Random Things on my GitHub
 
