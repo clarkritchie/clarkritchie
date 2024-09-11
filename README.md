@@ -70,3 +70,12 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
 - Read Secure Notes from 1Password and push to GitHub Secrets (see above) [but in a GHA](https://gist.github.com/clarkritchie/843c54c66af0833d05a88ab6fd84a544) -- this is the way
 - I didn't make this, *but this is amazing* -- a neat [search and replace](https://gist.github.com/clarkritchie/4e1e365085675995d9726d70cd87b9a3) shell hack for use with the [Silver Searcher](https://github.com/ggreer/the_silver_searcher)
 - Additional other random notes and code snippets that I did not explicitly link to are [here](https://gist.github.com/clarkritchie)
+
+## Not Mine
+
+Here are some excellent Gists by Andrew Zurn on how to let AI write your PRs for you (and other things):
+
+- https://gist.github.com/AndrewZurn/8050f8ad5bff2c6826cd71eacaa52fb9
+- ⁠https://gist.github.com/AndrewZurn/ef633ace2f28828d38bbbcac5cca523a
+- ⁠https://gist.github.com/AndrewZurn/01f3fa2e8de80a06ab744b39d472e5d4
+- ⁠https://gist.github.com/AndrewZurn/382d20e58c60e9188ff0b12658200c71
