@@ -73,7 +73,7 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
 
 ## Not Mine
 
-Here are some excellent Gists by Andrew Zurn on how to let AI write your PRs for you (and other things):
+Here are some excellent Gists by Andrew Zurn on how to use [Ollama](https://ollama.com/) to write your PRs for you (and other things):
 
 - https://gist.github.com/AndrewZurn/8050f8ad5bff2c6826cd71eacaa52fb9
 - ⁠https://gist.github.com/AndrewZurn/ef633ace2f28828d38bbbcac5cca523a
