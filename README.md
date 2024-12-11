@@ -33,6 +33,10 @@ Connect with me on:
 
 A lot of this is elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.  Some of the Terraform is more sophisticated.
 
+- VS Code Dev Containers -- make your `.devcontainer/devcontainer.json` work for you:
+  - [Dockerfile.dev-container](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/Dockerfile.dev-container)
+  - [docker-compose-dev-container.yaml](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/docker-compose-dev-container.yaml )
+  - [entrypoint-dev-container.sh](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/entrypoint-dev-container.sh)
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- gRPC example of a "Hello World" server in Go, with clients in Go and Python
 - Terraform Things
@@ -63,8 +67,7 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
 - A few things that I made to make copying a Postgres db from [Heroku to RDS](https://github.com/clarkritchie/heroku-to-rds) a little easier
 - Produce [camelCased JSON from a Go Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c) -- I was recently asked in an interview how to do this, I've always referred to this as "JSON Hints", but maybe that's incorrect?  (I think that `json.Marshal` was all they were looking for!)
 
-
-- Additional other random notes and code snippets that I did not explicitly link to are [here](https://gist.github.com/clarkritchie)
+Additional other random notes and code snippets that I did not explicitly link to are [here](https://gist.github.com/clarkritchie)
 
 ### GitHub Actions
 
