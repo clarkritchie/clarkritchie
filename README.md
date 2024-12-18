@@ -31,7 +31,7 @@ Connect with me on:
 
 ## Current Stack
 
-These days I am using Kubernetes (GKE), Helm charts, GitHub Actions, Cloud SQL (MySQL, Postgres), Cassandra, Spanner, Python, Go, GCP and Datadog.
+These days I am using Kubernetes (GKE), Helm charts, GitHub Actions, Cloud SQL (MySQL, Postgres), Cassandra, Spanner, Python, Go, Crossplane (for IaC), GCP and Datadog.
 
 ## 🗒️ Random Things on my GitHub
 
@@ -46,7 +46,7 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
 
 - [Basic Go Things](https://github.com/clarkritchie/basic-go-things)
   - [gRPC](https://github.com/clarkritchie/basic-go-things/tree/main/grpc) -- gRPC example of a "Hello World" server in Go, with clients in Go and Python
-- Produce [camelCased JSON from a Go Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c) -- I was recently asked in an interview how to do this, I've always referred to this as "JSON Hints", but maybe that's incorrect?  (I think that `json.Marshal` was all they were looking for!)
+- Produce [camelCased JSON from a Go Struct](https://gist.github.com/clarkritchie/e98791cfb06f6fcd22e40ddb2516376c) -- I was asked in an interview how to do this... I've always referred to this technique as "JSON Hints", but maybe that's incorrect?  I think that `json.Marshal` was all they were looking for.
 
 ### Terraform Things
 
