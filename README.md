@@ -1,6 +1,6 @@
 # ❇️ Clark Ritchie
 
-A platform engineer with a diverse background of experiences, hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
+A Senior Staff Platform / Site Reliabilty Engineer with a diverse background of experiences.  Hands-on building and operating scalable SaaS cloud-native systems for over 15 years as both an IC and leader.
 
 I am passionate about building and operating **world-class applications** that **delight its end users**.
 
@@ -11,7 +11,7 @@ Connect with me on:
 
 ## 💬 TL;DR
 
-- Core skills:  Linux, Terraform, Docker and containers (Swarm/ECS/K8s), Go (Golang), Python, CI/CD, cloud (AWS/GCP)
+- Core skills:  Linux, Terraform, Docker and containers (Kubernetes, Elastic Container Service, Docker Swarm), Go (Golang), Python, CI/CD, cloud (AWS, GCP), and loads of experience with tools like GitHub Actions
 - I am a developer, but also very close to infrastructure
 - I approach software development with an SRE's mindset -- scalability, fault-tolerance, optimizing spend, monitoring and alerting -- these things, and more, are always part of my thinking
 - Sometimes good is better than perfect; I like to ship early and ship often
@@ -28,6 +28,10 @@ Connect with me on:
 - 5 Years as Platform Engineer at [Specialized Bicycle Components](https://www.specialized.com/us/en) (’18-’23)
 - Principal Engineer at Blueboard, a failed HR SaaS startup (’23-’24)
 - My current role is as a Senior Staff SRE Software Engineer at [Dexcom](https://www.dexcom.com)
+
+## Current Stack
+
+These days I am using Kubernetes (GKE), Helm charts, GitHub Actions, Cloud SQL (MySQL, Postgres), Cassandra, Spanner, Python, Go, GCP and Datadog.
 
 ## 🗒️ Random Things on my GitHub
 
@@ -61,11 +65,11 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
 
 - [Basic Python Things](https://github.com/clarkritchie/basic-python-things)
 - [Go shared lib](https://github.com/clarkritchie/basic-python-things/tree/main/go-shared-lib) -- The _Sieve of Sundaram_ in Python (native) versus it in Python, but with the heavy lifting done in Go (code compiled to a `.so` file)
-- Quick Python script to [delete old branches](https://gist.github.com/clarkritchie/6be7d3d8fec96901002b01df2eaafb6e)
+- Quick and dirty Python script to [delete old branches](https://gist.github.com/clarkritchie/6be7d3d8fec96901002b01df2eaafb6e) -- this is more or less the the same thing in a [shell script](https://gist.github.com/clarkritchie/071a3cbced4f5286d751bce0099fed61)
 
 ### Docker Things
 
-- [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff (I'm finally learning K8s)
+- [Kubernetes Things](https://github.com/clarkritchie/k8s-things) -- Hello world stuff from when I was just getting started with Kubernetes and Helm charts
 - Simple [example](https://github.com/clarkritchie/pizza-store-app) of how you might use Docker Compose to run a small Fast API server that can reach a Maria DB database
 - Shell script to [tag a container with a semvar+sha](https://gist.github.com/clarkritchie/600297e23a05a629664bfbff20d03b51)
 
