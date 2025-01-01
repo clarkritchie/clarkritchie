@@ -37,10 +37,7 @@ These days I am using Kubernetes (GKE), Helm charts, GitHub Actions, Cloud SQL (
 
 A lot of this is elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.  Some of the Terraform is more sophisticated.
 
-- VS Code Dev Containers -- make your `.devcontainer/devcontainer.json` work for you:
-  - [Dockerfile.dev-container](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/Dockerfile.dev-container)
-  - [docker-compose-dev-container.yaml](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/docker-compose-dev-container.yaml )
-  - [entrypoint-dev-container.sh](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/entrypoint-dev-container.sh)
+- [VS Code Dev Containers](https://github.com/clarkritchie/etc/blob/main/vscode-dev-containers/README.md)
 
 ### Go Things
 
